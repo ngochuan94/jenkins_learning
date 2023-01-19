@@ -1,4 +1,4 @@
-[![Build Status](https://0ef4-2a02-8428-6ef-7701-8165-368d-d083-c235.eu.ngrok.io/buildStatus/icon?job=test_scrip_badge&build=3)](https://0ef4-2a02-8428-6ef-7701-8165-368d-d083-c235.eu.ngrok.io/job/test_scrip_badge/3/)
+[![Build Status](https://0ef4-2a02-8428-6ef-7701-8165-368d-d083-c235.eu.ngrok.io/buildStatus/icon?job=test_scrip_badge)](https://0ef4-2a02-8428-6ef-7701-8165-368d-d083-c235.eu.ngrok.io/job/test_scrip_badge/)
 # 03_03 Run scripts from the pipeline
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
