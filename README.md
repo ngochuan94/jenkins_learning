@@ -1,3 +1,4 @@
+[![Build Status](http://localhost:8080/buildStatus/icon?job=test_scrip_badge&build=3)](http://localhost:8080/job/test_scrip_badge/3/)
 # 03_03 Run scripts from the pipeline
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
